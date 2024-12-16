@@ -8,7 +8,7 @@ const Footer = () => {
         Pass
         <span className="text-green-500">OP/&gt;</span>
               </div>
-              <span className='flex text-center items-center justify-center'>Created With <img className='w-10 p-2 bg-slate-800 text-black' src="icons/heart.png" alt="" />By Syed Muhib</span>
+              <span className='flex text-center items-center justify-center'>Created With&#x2764;By Syed Muhib</span>
     </div>
   )
 }
